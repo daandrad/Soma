@@ -17,8 +17,8 @@ double num2 = numero.nextDouble();
 
 soma = num1 + num2;
 
-System.out.println("A soma é: = "+ soma);
+System.out.println("A soma é: "+ soma + "\n " + "Parabéns!!");
 
-  }
+ }
   
 }
